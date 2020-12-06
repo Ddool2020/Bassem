@@ -1,0 +1,92 @@
+ <div class="col-md-6 mt-4">
+            <div class="feature-16-gd">
+              <div class="icon">
+                <img src="assets/images/library.png" class="img-fluid" alt="" />
+              </div>
+              <div class="feature-16-gd-info">
+                <h4 class="mt-4 mb-2">Level 3</h4>
+                <h5>Seek for the Best</h5>
+                <p>College & Job Seekers</p>
+                <p> Duration – 32 days</p>
+                <ul>
+                  <li>Interview Management</li>
+                  <li>Presentation Skills</li>
+                  <li>Professional Etiquettes</li>
+                  <li> Group Discussion Practice</li>
+                  <li>Resume Building</li>
+                  <li> Case Study Analysis</li>
+                  <li> Personal Effectiveness</li>
+                </ul>
+                <a href="services.html" class="btn btn-primary theme-button mt-4">Learn more</a>
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+                <div class="col-md-6 mt-4">
+            <div class="feature-16-gd">
+              <div class="icon">
+                <img src="assets/images/teacher.png" class="img-fluid" alt="" />
+              </div>
+              <div class="feature-16-gd-info">
+                <h4 class="mt-4 mb-2">Expert Teachers</h4>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. In itaque vel libero.</p>
+                <ul>
+                  <li>Our job is to make your life easier.</li>
+                  <li>Experience students as it should be.</li>
+                  <li>Doing the right thing,
+                    at the right time.</li>
+                  <li>Explore The World Of Our Graduates</li>
+                </ul>
+                <a href="services.html" class="btn btn-primary theme-button mt-4">Learn more</a>
+              </div>
+            </div>
+          </div>
+
+
+
+
+---------------------------------------------------------------------------------------------------
+          05-12=-2020  7:55AM    LOCATION:about.html /Bassem
+------------------------------------------------------------------------------------------------
+
+          <div class="col-lg-6 cwp23-text">
+          <div class="cwp23-title">
+            <h3>Guest Speakers </h3>
+          </div>
+          <div class="cwp23-text-cols">
+
+            <div class="column">
+             <span class="fa fa-smile-o" aria-hidden="true"></span>
+              <a href="services.html">Group Seminars</a>
+              <p>consectetur adipisicing elit, sed do eiusmod tempor </p>
+            </div>
+
+
+            <div class="column">
+              <span class="fa fa-graduation-cap" aria-hidden="true"></span>
+              <a href="services.html">Trending Courses</a>
+              <p>consectetur adipisicing elit, sed do eiusmod tempor </p>
+            </div>
+
+
+            <div class="column">
+              <span class="fa fa-history" aria-hidden="true"></span>
+              <a href="services.html">Large Library</a>
+              <p>consectetur adipisicing elit, sed do eiusmod tempor </p>
+            </div>
+
+            
+            <div class="column">
+              <span class="fa fa-users" aria-hidden="true"></span>
+              <a href="services.html">Expert Teachers</a>
+              <p>consectetur adipisicing elit, sed do eiusmod tempor </p>
+            </div>
+          </div>
+        </div>
+
+        ------------------------------------------------------------------------------------------------------
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31217.978328648584!2d75.23938477092693!3d12.026489054762905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba414bd3a27652f%3A0x6edb5c187aa12be3!2sPazhayangadi%2C%20Kerala!5e0!3m2!1sen!2sin!4v1604333664387!5m2!1sen!2sin"  style="border:0" allowfullscreen></iframe>
